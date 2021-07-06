@@ -6,6 +6,20 @@ h1{
     font-size: 60px;
     line-height: 10px;
 }
+.navbar{
+    display: flex;
+    justify-content: flex-end;
+    background-color: black;
+    
+
+}
+.navbar a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    margin-left: 10px;
+    
+}
 .orange-color{
     color: orange;
 }
@@ -87,5 +101,10 @@ h1{
 }
 footer{
     background-color: black;
-    color: wheat;
+    color:white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
 }
