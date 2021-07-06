@@ -27,3 +27,8 @@ h1{
 .half-width img{
     width: 80%;
 }
+.about-me-banner{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    
+}
