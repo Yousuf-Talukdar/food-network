@@ -27,6 +27,15 @@ h1{
 .half-width img{
     width: 80%;
 }
+.half-width-about{
+    width: 50%;
+    padding: 3%;
+    text-align: left;
+}
+.half-width-about img{
+    width: 59%;
+   padding-left: 130px;
+}
 .about-me-banner{
     background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
