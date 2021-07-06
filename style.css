@@ -16,3 +16,7 @@ h1{
     font-weight: 700;
     border-radius: 5px;
 }
+.flexible-container{
+    display: flex;
+    margin-bottom: 150px;
+}
