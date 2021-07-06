@@ -9,7 +9,7 @@ h1{
 .navbar{
     display: flex;
     justify-content: flex-end;
-    background-color: black;
+    background-color: rgb(58, 241, 150);
     
 
 }
@@ -39,7 +39,7 @@ h1{
 }
 .flexible-container{
     display: flex;
-    margin-bottom: 150px;
+    margin-bottom: 50px;
 }
 .half-width{
     width: 50%;
@@ -100,11 +100,12 @@ h1{
     text-align: justify;
 }
 footer{
-    background-color: black;
+    background-color: rgb(37, 37, 61);
     color:white;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     height: 150px;
+    margin-top: 50px;
 }
