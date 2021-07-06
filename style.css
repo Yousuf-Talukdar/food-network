@@ -20,3 +20,10 @@ h1{
     display: flex;
     margin-bottom: 150px;
 }
+.half-width{
+    width: 50%;
+    padding: 3%;
+}
+.half-width img{
+    width: 80%;
+}
