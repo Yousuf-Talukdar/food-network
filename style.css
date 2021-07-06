@@ -5,9 +5,6 @@ body{
 h1{
     font-size: 50px;
 }
-h2{
-    font-size: 40px;
-}
 .orange-color{
     color: orange;
 }
@@ -18,3 +15,4 @@ h2{
     color: white;
     font-weight: 700;
     border-radius: 5px;
+}
