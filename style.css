@@ -3,7 +3,7 @@ body{
     margin: 0;
 }
 h1{
-    font-size: 50px;
+    font-size: 60px;
 }
 .orange-color{
     color: orange;
@@ -15,6 +15,7 @@ h1{
     color: white;
     font-weight: 700;
     border-radius: 5px;
+
 }
 .flexible-container{
     display: flex;
@@ -29,15 +30,23 @@ h1{
 }
 .half-width-about{
     width: 50%;
-    padding: 3%;
+    padding: 5%;
     text-align: left;
 }
 .half-width-about img{
-    width: 59%;
+    width: 62%;
    padding-left: 130px;
+}
+.gray-text{
+    color: gray;
 }
 .about-me-banner{
     background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
+    
+}
+#recipe-story{
+    text-align: center;
+    
     
 }
