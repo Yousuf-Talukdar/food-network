@@ -4,6 +4,7 @@ body{
 }
 h1{
     font-size: 60px;
+    line-height: 10px;
 }
 .orange-color{
     color: orange;
@@ -14,8 +15,13 @@ h1{
     padding: 10px 40px;
     color: white;
     font-weight: 700;
-    border-radius: 5px;
+    border-radius: 15px;
+    
 
+}
+#diet-story{
+    padding-bottom: 30px;
+    color: gray;
 }
 .flexible-container{
     display: flex;
@@ -47,6 +53,39 @@ h1{
 }
 #recipe-story{
     text-align: center;
+    width: 700px;
     
-    
+}
+#story-area{
+    display: flex;
+    justify-content: center;
+}
+.recipe-name{
+    width: 25%;
+    margin: 20px;
+    border-radius: 15px;
+    box-shadow: 10px 10px 20px gray ;
+}
+.recipe-name img{
+    width: 90%;
+    padding: 8% ;
+
+}
+.image-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.recipe-cards{
+    display: flex;
+    justify-content: center;
+}
+.recipe-description{
+    padding-left: 7% ;
+    padding-right: 7%;
+    text-align: justify;
+}
+footer{
+    background-color: black;
+    color: wheat;
 }
