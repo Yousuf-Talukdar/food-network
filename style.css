@@ -39,7 +39,7 @@ h1{
 }
 .flexible-container{
     display: flex;
-    margin-bottom: 50px;
+    margin-bottom: 40px;
 }
 .half-width{
     width: 50%;
